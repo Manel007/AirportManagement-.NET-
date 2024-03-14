@@ -15,3 +15,4 @@ C:\Users\sana\Desktop\.net\Solution1\AM.Infrastructure\obj\Debug\net6.0\refint\A
 C:\Users\sana\Desktop\.net\Solution1\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.pdb
 C:\Users\sana\Desktop\.net\Solution1\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.genruntimeconfig.cache
 C:\Users\sana\Desktop\.net\Solution1\AM.Infrastructure\obj\Debug\net6.0\ref\AM.Infrastructure.dll
+C:\Users\sana\Desktop\.net\Solution1\AM.Infrastructure\obj\Debug\net6.0\AM.Infrastructure.sourcelink.json

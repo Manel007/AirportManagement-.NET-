@@ -36,6 +36,9 @@ namespace AM.ApplicationCore.Domain
      //   [Range(8, 8)]
         [RegularExpression(@"^[0-9]{8}$",ErrorMessage ="invalid phone number")]
         public int TelNumber { get; set;}
+        public virtual ICollection<Flight> Flights { get; set; }
+
+
 
         public override string ToString()
         {

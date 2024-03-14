@@ -26,6 +26,9 @@ namespace AM.ApplicationCore.Domain
         public int PlaneId { get; set; }
         public virtual ICollection<Flight> Flights { get; set; }
 
+        public virtual ICollection<Passenger>Passengers{ get; set; }
+
+
         public override string ToString()
         {
             return $"plane: PlaneId {PlaneId}, ManufactureDate{ManufactureDate}";
